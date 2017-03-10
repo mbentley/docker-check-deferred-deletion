@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 PIPE1=/run/dss-$$-fifo1
 PIPE2=/run/dss-$$-fifo2
