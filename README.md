@@ -1,5 +1,5 @@
-deferred-deletion-test
-======================
+docker-check-deferred-deletion
+==============================
 
 Tests to see if your kernel supports deferred deletion
 
